@@ -1,0 +1,19 @@
+.header__like {
+    width: 24px;
+    height: 24px;
+    border: none;
+    background-color: transparent;
+    background-image: url("../../../images/like.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 22px 20px;
+    margin: 0 45px 0 0;
+    position: relative;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+}
+
+.header__like:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}

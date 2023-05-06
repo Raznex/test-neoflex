@@ -1,0 +1,8 @@
+.card__rate-number {
+    margin: 0 0 0 10px;
+    padding: 0;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #838383;
+}

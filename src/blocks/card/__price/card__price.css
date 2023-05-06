@@ -1,0 +1,10 @@
+.card__price {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: right;
+    align-items: center;
+    color: #FFA542;
+    margin: 0;
+    padding: 0;
+}

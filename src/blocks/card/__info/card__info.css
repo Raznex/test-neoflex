@@ -1,0 +1,14 @@
+.card__info {
+    display: grid;
+    align-items: center;
+    grid-template-rows: auto;
+    grid-template-columns: 50% 1fr;
+    padding: 0 21px;
+    margin: 0 0 27px;
+    box-sizing: border-box;
+    min-height: 74px;
+    width: 100%;
+    justify-content: space-between;
+    align-content: space-between;
+    justify-items: stretch;
+}

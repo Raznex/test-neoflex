@@ -1,0 +1,7 @@
+.content {
+    max-width: 1110px;
+    margin: 28px 148px 0 182px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}

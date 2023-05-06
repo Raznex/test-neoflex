@@ -1,0 +1,7 @@
+.card__photo {
+    max-width: 220px;
+    max-height: 240px;
+    object-fit: contain;
+    object-position: top center;
+    margin: 15px 0 54px;
+}

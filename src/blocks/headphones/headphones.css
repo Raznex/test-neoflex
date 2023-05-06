@@ -1,0 +1,10 @@
+.headphones {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Montserrat';
+    margin: 0 0 28px;
+}
+
+.headphones:last-of-type {
+    margin-bottom: 20px;
+}

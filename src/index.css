@@ -1,13 +1,30 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+@import url(./blocks/page/page.css);
+@import url(./blocks/root/root.css);
+/*header*/
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__title/header__title.css);
+@import url(./blocks/header/__basket/header__basket.css);
+@import url(./blocks/header/__basket-counter/header__basket-counter.css);
+@import url(./blocks/header/__like/header__like.css);
+@import url(./blocks/header/__like-counter/header__like-counter.css);
+@import url(./blocks/header/__icon-container/header__icon-container.css);
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+/*content*/
+@import url(./blocks/content/content.css);
+@import url(./blocks/headphones/headphones.css);
+@import url(./blocks/headphones/__title/headphones__title.css);
+@import url(./blocks/headphones/__container/headphones__container.css);
+@import url(./blocks/headphones/_type/headphones_type_TW.css);
+
+/*card*/
+@import url(./blocks/card/card.css);
+@import url(./blocks/card/__title/card__title.css);
+@import url(./blocks/card/__button-buy/card__button-buy.css);
+@import url(./blocks/card/__image-rate/card__image-rate.css);
+@import url(./blocks/card/__info/card__info.css);
+@import url(./blocks/card/__photo/card__photo.css);
+@import url(./blocks/card/__price/card__price.css);
+@import url(./blocks/card/__rate/card__rate.css);
+@import url(./blocks/card/__rate-number/card__rate-number.css);
