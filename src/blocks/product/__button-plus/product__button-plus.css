@@ -1,0 +1,18 @@
+.product__button-plus {
+    background-image: url("../../../images/plus.svg");
+    width: 35px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-size: 35px 30px;
+    background-color: transparent;
+    background-position: center;
+    border: none;
+    margin: 0;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+}
+
+.product__button-plus:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}

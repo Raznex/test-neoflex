@@ -1,0 +1,7 @@
+.product__image {
+    width: 147px;
+    height: 136px;
+    margin: 18px 23px 0 18px;
+    object-fit: contain;
+    object-position: center;
+}

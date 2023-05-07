@@ -28,3 +28,46 @@
 @import url(./blocks/card/__price/card__price.css);
 @import url(./blocks/card/__rate/card__rate.css);
 @import url(./blocks/card/__rate-number/card__rate-number.css);
+
+/*footer*/
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__link/footer__link.css);
+@import url(./blocks/footer/__list/footer__list.css);
+@import url(./blocks/footer/__title/footer__title.css);
+@import url(./blocks/footer/__container-language/footer__container-language.css);
+@import url(./blocks/footer/__icon/footer__icon.css);
+@import url(./blocks/footer/__icon-container/footer__icon-container.css);
+@import url(./blocks/footer/__language/footer__language.css);
+@import url(./blocks/footer/__language/_is-active/footer__language_is-active.css);
+@import url(./blocks/footer/__navigate/footer__navigate.css);
+@import url(./blocks/footer/__planet/footer__planet.css);
+@import url(./blocks/footer/__icon-li/footer__icon-li.css);
+
+/*basket*/
+@import url(./blocks/basket/basket.css);
+@import url(./blocks/basket/__title/backet__title.css);
+@import url(./blocks/basket/__container/basket__container.css);
+@import url(./blocks/basket/__total/basket__total.css);
+@import url(./blocks/basket/__info/basket__info.css);
+@import url(./blocks/basket/__name/basket__name.css);
+@import url(./blocks/basket/__price/basket__price.css);
+@import url(./blocks/basket/__button-continue/basket__button-continue.css);
+@import url(./blocks/basket/__contents/basket__contents.css);
+@import url(./blocks/basket/__back/basket__back.css);
+
+/*product*/
+@import url(./blocks/product/product.css);
+@import url(./blocks/product/__container/product__container.css);
+@import url(./blocks/product/__description/product__description.css);
+@import url(./blocks/product/__trash/product__trash.css);
+@import url(./blocks/product/__image/product__image.css);
+@import url(./blocks/product/__about/product__about.css);
+@import url(./blocks/product/__title/product__title.css);
+@import url(./blocks/product/__price/product__price.css);
+@import url(./blocks/product/__total-price/product__total-price.css);
+@import url(./blocks/product/__addition/product__addition.css);
+@import url(./blocks/product/__button-minus/product__button-minus.css);
+@import url(./blocks/product/__button-plus/product__button-plus.css);
+@import url(./blocks/product/__num/product__num.css);
+@import url(./blocks/product/__sum/product__sum.css);
+

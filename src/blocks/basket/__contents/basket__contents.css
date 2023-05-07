@@ -1,0 +1,6 @@
+.basket__contents {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Montserrat';
+    font-style: normal;
+}

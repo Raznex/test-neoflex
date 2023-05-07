@@ -1,0 +1,4 @@
+.product__description {
+    display: flex;
+    align-items: flex-end;
+}

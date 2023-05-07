@@ -1,0 +1,19 @@
+.product__button-minus {
+    background-image: url("../../../images/minus.svg");
+    width: 35px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-size: 35px 30px;
+    background-color: transparent;
+    background-position: center;
+    border: none;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+    margin: 0;
+    padding: 0;
+}
+
+.product__button-minus:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}

@@ -1,0 +1,7 @@
+.basket {
+    min-height: 750px;
+    max-width: 1110px;
+    margin: 29px 165px 20px;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,6 @@
+.basket__info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 22px 16px 16px 22px;
+}

@@ -1,0 +1,7 @@
+.footer__icon {
+    width: 30px;
+    height: 30px;
+
+    object-fit: contain;
+    object-position: center;
+}

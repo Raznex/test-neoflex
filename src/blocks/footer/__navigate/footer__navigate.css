@@ -1,0 +1,7 @@
+.footer__navigate {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 29px 29px 0 0;
+    column-gap: 180px;
+}

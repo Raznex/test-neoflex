@@ -1,0 +1,10 @@
+.product__container {
+    width: 633px;
+    min-height: 218px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+}

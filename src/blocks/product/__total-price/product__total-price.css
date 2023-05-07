@@ -1,0 +1,6 @@
+.product__total-price {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 17px 28px 0 17px;
+}

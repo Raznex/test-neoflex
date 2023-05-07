@@ -1,0 +1,10 @@
+.footer__language {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    margin: 0 0 0 17px;
+    padding: 0;
+    text-decoration: none;
+    color: #101010;
+}

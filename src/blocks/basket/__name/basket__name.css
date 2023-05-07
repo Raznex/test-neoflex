@@ -1,0 +1,9 @@
+.basket__name {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    text-transform: uppercase;
+    margin: 0;
+    padding: 0;
+}

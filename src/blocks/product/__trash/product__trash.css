@@ -1,0 +1,19 @@
+.product__trash {
+    background-image: url("../../../images/trash.svg");
+    width: 20px;
+    height: 17px;
+    border: none;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+    position: absolute;
+    top: 18px;
+    right: 29px;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+}
+
+.product__trash:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}

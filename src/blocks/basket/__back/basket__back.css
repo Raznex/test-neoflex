@@ -1,0 +1,16 @@
+.basket__back {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #1C1C27;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    opacity: 1;
+    transition: opacity 0.5s ease 0s;
+}
+
+.basket__back:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}

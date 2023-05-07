@@ -1,0 +1,7 @@
+.footer__icon-li {
+    margin-right: 18px;
+}
+
+.footer__icon-li:last-of-type {
+    margin-right: 0;
+}
