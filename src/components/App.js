@@ -13,7 +13,6 @@ function App() {
         setCartItems([...cartItems, { ...item, id: cartItems.length, count: count + 1, totalPrice: +item.price}]);
     };
 
-    // console.log(`это ${count}`)
     return (<div className="page">
             <Header basketCount={totalItemCount}/>
             <Routes>

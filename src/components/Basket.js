@@ -7,10 +7,11 @@ const Basket = ({cartItems, setCartItems, count, setCount}) => {
         setCartItems((prevCartItems) => {
             const newCartItems = [...prevCartItems];
             newCartItems.splice(index, 1);
+            setCount(0)
             return newCartItems;
         });
     };
-
+    console.log(cartItems)
     const totalPriceBasket = cartItems.reduce((acc, item) => acc + +item.price * item.count, 0);
     return (
         <div className='basket'>
