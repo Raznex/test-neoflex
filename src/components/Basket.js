@@ -17,7 +17,7 @@ const Basket = ({cartItems, setCartItems, count, setCount}) => {
         <div className='basket'>
             <div className="basket__contents">
                 <p className="basket__title">Корзина</p>
-                <Link to='/' className="basket__back">Назад &#8594;</Link>
+                <Link to='/test-neoflex' className="basket__back">Назад &#8594;</Link>
             </div>
             <div className="basket__container">
                 <div className="product">

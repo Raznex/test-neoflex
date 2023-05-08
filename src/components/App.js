@@ -17,7 +17,7 @@ function App() {
             <Header basketCount={totalItemCount}/>
             <Routes>
                 <Route
-                    path="/"
+                    path="/test-neoflex"
                     element={<Main addToBasketCount={addToCart} count={count}/>}
                 />
                 <Route
