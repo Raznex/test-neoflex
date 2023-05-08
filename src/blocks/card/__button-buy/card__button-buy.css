@@ -6,13 +6,28 @@
     line-height: 21px;
     color: #000;
     text-align: right;
-    margin: 0;
+    margin: 0 0 0 80px;
     padding: 0;
     opacity: 1;
     transition: opacity 0.5s ease 0s;
+    width: 65px;
 }
 
 .card__button-buy:hover {
     opacity: 0.5;
     cursor: pointer;
+}
+
+.card__button-buy.in-cart {
+    background-color: #41fa7c;
+    cursor: default;
+    opacity: 1;
+    color: white;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 21px;
+    width: 95px;
+    border-radius: 8px;
+    text-align: center;
+    margin: 0 0 0 58px;
 }

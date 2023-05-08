@@ -2,14 +2,14 @@ import React from 'react';
 import Card from "./Card";
 import {headphones, TWHeadphones} from '../utils/CardInfo'
 
-const Main = ({addToBasketCount}) => {
+const Main = ({addToBasketCount, count}) => {
     return (
         <main className='content'>
             <section className="headphones">
                 <h2 className="headphones__title">Наушники</h2>
                 <div className="headphones__container">
                     {headphones.map((headphone, index) => (
-                        <Card key={index} card={headphone} onAddCount={() => addToBasketCount(headphone)}/>
+                        <Card key={index} card={headphone} onAddCount={() => addToBasketCount(headphone, count)} count={count}/>
                     ))}
                 </div>
             </section>
@@ -17,7 +17,7 @@ const Main = ({addToBasketCount}) => {
                 <h2 className="headphones__title">Беспроводные наушники</h2>
                 <div className="headphones__container">
                     {TWHeadphones.map((headphone, index) => (
-                        <Card key={index} card={headphone} onAddCount={() => addToBasketCount(headphone)}/>
+                        <Card key={index} card={headphone} onAddCount={() => addToBasketCount(headphone, count)} count={count}/>
                     ))}
                 </div>
             </section>
