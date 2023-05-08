@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/test-neoflex/static/css/main.118db889.css",
-    "main.js": "/test-neoflex/static/js/main.e0f1c2d4.js",
+    "main.js": "/test-neoflex/static/js/main.e5ffdd63.js",
     "static/js/787.614e9e18.chunk.js": "/test-neoflex/static/js/787.614e9e18.chunk.js",
     "static/media/Montserrat-Bold.woff": "/test-neoflex/static/media/Montserrat-Bold.180ba33d8de7dcfe80a0.woff",
     "static/media/Montserrat-Regular.woff": "/test-neoflex/static/media/Montserrat-Regular.3db65dc4b858f0fed4fb.woff",
@@ -29,11 +29,11 @@
     "static/media/plus.svg": "/test-neoflex/static/media/plus.84c73fd43d293d5dac69.svg",
     "static/media/minus.svg": "/test-neoflex/static/media/minus.9d117fccdac8e08d9d51.svg",
     "main.118db889.css.map": "/test-neoflex/static/css/main.118db889.css.map",
-    "main.e0f1c2d4.js.map": "/test-neoflex/static/js/main.e0f1c2d4.js.map",
+    "main.e5ffdd63.js.map": "/test-neoflex/static/js/main.e5ffdd63.js.map",
     "787.614e9e18.chunk.js.map": "/test-neoflex/static/js/787.614e9e18.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.118db889.css",
-    "static/js/main.e0f1c2d4.js"
+    "static/js/main.e5ffdd63.js"
   ]
 }
